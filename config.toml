@@ -15,7 +15,7 @@ DefaultContentLanguage = "en"
   [Languages]
   [Languages.en]
   title = "EA at City"
-  weight = 2
+  weight = 1
   languageCode = "en"
 
   [Languages.en.general]

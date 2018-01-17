@@ -81,5 +81,5 @@ DefaultContentLanguage = "en"
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/CityEffectiveAtruism/"
-  twitterUrl = ""
+  # twitterUrl = ""
   # instagramUrl = "https://www.instagram.com/cityeffectivealtruism/"

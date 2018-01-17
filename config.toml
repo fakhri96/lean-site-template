@@ -20,12 +20,12 @@ DefaultContentLanguage = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Site Title"
+  fullTitle = "City Effective Altruism Society"
   strapline = "Helping you do good better"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
-  legalOrgName = "Effective Altruism London"
+  legalOrgName = "City, University of London Effective Altruism Society "
   orgLocations = "London"
   contactEmail = "effectivealtruism@city.ac.uk"
 
